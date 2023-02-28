@@ -32,7 +32,7 @@
             <Equipment-2>Vibranium Shield</Equipment-2>
             <Equipment-3>Wakandan Shield</Equipment-3>
         </Equipment>
-    </name>
+    </real_name>
 
     <real_name name = "Thor Odinson">
         <Species>Asgardian</Species>
