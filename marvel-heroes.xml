@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MarvelHeroes>
 
-    <real_name name ="Tony_Stark">
+    <real_name name ="Tony Stark">
         <Species>Human</Species>
         <Alias>Iron Man</Alias>
         <Appearances>
@@ -19,7 +19,7 @@
         </Equipment>
     </real_name>
 
-    <real_name name = "Steve_Rogers">
+    <real_name name = "Steve Rogers">
         <Species>Human</Species>
         <Alias>Captain America</Alias>
         <Appearances>
@@ -49,7 +49,7 @@
         </Equipment>
     </real_name>
 
-    <real_name name = "Bruce_Banner">
+    <real_name name = "Bruce Banner">
         <Species>Human</Species>
         <Alias>Hulk</Alias>
         <Appearances>
