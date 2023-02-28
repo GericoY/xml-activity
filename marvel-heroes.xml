@@ -21,7 +21,7 @@
 
     <real_name name = "Steve_Rogers">
         <Species>Human</Species>
-        <Alias>Iron Man</Alias>
+        <Alias>Captain America</Alias>
         <Appearances>
             <Movie-1>Captain America: The First Avenger</Movie-1>
             <Movie-2>Captain America: The Winter Soldier</Movie-2>
