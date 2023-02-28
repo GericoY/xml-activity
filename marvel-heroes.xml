@@ -1,27 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MarvelHeroes>
 
-    <first_child>
-        <second_sub_child>
-            <third_sub_child1>
-                <fourth_sub_child1>
-                    <fifth_sub_child1>Value</fifth_sub_child>
-                    <fifth_sub_child2>Value</fifth_sub_child>
-                    <fifth_sub_child3>Value</fifth_sub_child>
-                </fourth_sub_child1>
-                <fourth_sub_child2>
-                    ...Other Values...
-                </fourth_sub_child2>
-            </third_sub_child1>
-            <third_sub_child2>
-                <fourth_sub_child1>
-                ...Other Values...
-                </fourth_sub_child1>
-                <fourth_sub_child2>
-                ...Other Values...
-                </fourth_sub_child2>
-            </third_sub_child2>
-        </second_sub_child>
-    </first_child>
+    <real_name name ="Tony_Stark">
+        <Species>Human</Species>
+        <Alias>Iron Man</Alias>
+        <Appearances>
+            <Movie-1>Iron Man 1</Movie-1>
+            <Movie-2>Iron Man 2</Movie-2>
+            <Movie-3>Iron Man 3</Movie-3>
+            <Movie-4>The Avengers</Movie-4>
+            <Movie-5>Captain America: Civil War</Movie-5>
+            <Movie-6>Avengers: Infinity War</Movie-6>
+        </Appearances>
+        <Equipment>
+            <Equipment-1>Iron Man Armor: Mark I</Equipment-1>
+            <Equipment-2>Iron Man Armor: Mark II</Equipment-2>
+            <Equipment-3>Iron Man Armor: Mark III</Equipment-3>
+        </Equipment>
+    </real_name>
+
+    <real_name name = "Steve_Rogers">
+        <Species>Human</Species>
+        <Alias>Iron Man</Alias>
+        <Appearances>
+            <Movie-1>Captain America: The First Avenger</Movie-1>
+            <Movie-2>Captain America: The Winter Soldier</Movie-2>
+            <Movie-3>Captain America: Civil War</Movie-3>
+        </Appearances>
+        <Equipment>
+            <Equipment-1>USO Shield</Equipment-1>
+            <Equipment-2>Vibranium Shield</Equipment-2>
+            <Equipment-3>Wakandan Shield</Equipment-3>
+        </Equipment>
+    </name>
+
+    <real_name name = "Thor Odinson">
+        <Species>Asgardian</Species>
+        <Alias>Mighty Thor</Alias>
+        <Appearances>
+            <Movie-1>Thor</Movie-1>
+            <Movie-2>Thor: The Dark World</Movie-2>
+            <Movie-3>Thor: Ragnarok</Movie-3>
+            <Movie-4>Thor: Love and Thunder</Movie-4>
+        </Appearances>
+        <Equipment>
+            <Equipment-1>Mjølnir</Equipment-1>
+            <Equipment-2>Stormbreaker</Equipment-2>
+        </Equipment>
+    </real_name>
+
+    <real_name name = "Bruce_Banner">
+        <Species>Human</Species>
+        <Alias>Hulk</Alias>
+        <Appearances>
+            <Movie-1>Hulk</Movie-1>
+            <Movie-2>The Incredible Hulk</Movie-2>
+            <Movie-3>The Avengers</Movie-3>
+            <Movie-4>Avengers: Age of Ultron</Movie-4>
+        </Appearances>
+        <Equipment>
+            <Equipment-1>Sakaaran Battle Axe</Equipment-1>
+            <Equipment-2>Sakaaran War Hammer</Equipment-2>
+        </Equipment>
+    </real_name>
+
+    <real_name name = "Natasha Romanoff">
+        <Species>Human</Species>
+        <Alias>Black Widow</Alias>
+        <Appearances>
+            <Movie-1>Black Widow</Movie-1>
+            <Movie-2>The Avengers</Movie-2>
+            <Movie-3>Captain America: The Winter Soldier</Movie-3>
+            <Movie-4>Avengers: Age of Ultron</Movie-4>
+        </Appearances>
+        <Equipment>
+            <Equipment-1>Black Widow's Bite</Equipment-1>
+            <Equipment-2>Black Widow's Baton</Equipment-2>
+            <Equipment-2>Taser Disks</Equipment-2>
+        </Equipment>
+    </real_name>
 
 </MarvelHeroes>
